@@ -14,7 +14,7 @@ El objetivo del repositorio es:
 ## 📚 Wiki
 La documentación completa está organizada en la Wiki del repositorio.
 
-👉 **[Ir a la Wiki]()**
+👉 **[Ir a la Wiki](https://github.com/Sulig/minigames-design-docs/wiki)**
 
 Cada minijuego tiene su propia página, con:
 - Objetivo
